@@ -1,6 +1,4 @@
-# BirthDay_Wish
-
-# Divya's Birthday Website v2
+# Divya's Midnight Birthday Website v2
 
 This is the React website only. No database and no QR generator yet.
 
