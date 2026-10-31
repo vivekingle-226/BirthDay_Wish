@@ -77,19 +77,19 @@ const questions = [
   },
   {
     eyebrow: "QUESTION 02 / FRIENDSHIP AUDIT",
-    title: "What happens when you try to have a serious conversation with me?",
+    title: "How do you feel when we have a conversation?",
     options: [
-      "I listen properly 🥹",
-      "I start bakchodi 💀",
-      "Both, somehow 🤝",
-      "File a complaint immediately 📢",
+      "I feel comfortable sharing everything ❤️",
+      "I feel understood and heard 🥹",
+      "You somehow turn it into bakchodi 💀",
+      "A little bit of everything 😂",
     ],
     response:
       "Complaint received. It will be ignored with affection. 😂",
   },
   {
     eyebrow: "QUESTION 03 / FINAL EXAM",
-    title: "How long will you tolerate me?",
+    title: "How long will you with me?",
     options: [
       "One more call 📞",
       "At least another year 🎂",
