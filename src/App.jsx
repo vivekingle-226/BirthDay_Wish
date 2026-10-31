@@ -58,8 +58,8 @@ const bootMessages = [
 const resultMessages = [
   "Reply speed: CRITICALLY LOW 💀",
   "Bakchodi detected: MAXIMUM",
-  "Friendship status: UNREPLACEABLE ♡",
-  "SYSTEM READY.",
+  "Realationship status: UNREPLACEABLE ♡",
+  "Heart Connect Ready 💞.",
 ];
 
 const questions = [
