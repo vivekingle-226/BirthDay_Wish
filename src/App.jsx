@@ -562,7 +562,7 @@ useEffect(() => {
           </div>
 
           <button className="primary-button" onClick={() => go("chaos")}>
-            More evidence against you
+            More About US
             <span className="button-icon">↗</span>
           </button>
         </section>
@@ -642,10 +642,10 @@ useEffect(() => {
 
             <div className="letter-decoration">♡</div>
 
-            <p className="letter-greeting">Hey Divyaaa,</p>
+            <p className="letter-greeting">Hey Girl,</p>
 
             <p>
-              Happy birthday, idiot. ❤️ I genuinely didn't expect that the
+              Happy birthday. ❤️ I genuinely didn't expect that the
               girl who asked about a book on my desk would become someone
               this important to me.
             </p>
@@ -674,7 +674,7 @@ useEffect(() => {
             <p className="letter-signoff">
               Stay happy. Stay amazing. Stay a little annoyed at me.
               <br />
-              <span>your favourite headache ♡</span>
+              <span>your favourite Person ♡</span>
             </p>
 
             <div className="letter-footer">
