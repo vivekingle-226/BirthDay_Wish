@@ -7,6 +7,7 @@ import photo3 from "./img/3rd.jpeg";
 import photo4 from "./img/4th.jpeg";
 import photo5 from "./img/5th.jpeg";
 import photo6 from "./img/6th.jpeg";
+import audio from  "./img/Pisoli.m4a";
 
 import {
   Heart,
@@ -736,9 +737,9 @@ useEffect(() => {
 
             {showVoice && (
               <audio className="voice-audio" controls>
-                <source src="./img/Pisoli.m4a" type="audio/mpeg" />
+                <source src="/img/Pisoli.m4a" type="audio/mpeg" />
                 Your browser does not support audio.
-              </audio>
+              </audio> 
             )}
           </div>
 
